@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/svn/!svn/ver/47/trunk
+END
+outlook.csv
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/5/trunk/outlook.csv
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/5/trunk/COPYING
+END
+release.sh
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/22/trunk/release.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/23/trunk/README.txt
+END
+shared_contacts_profiles.py
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/47/trunk/shared_contacts_profiles.py
+END

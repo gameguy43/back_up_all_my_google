@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/265/trunk
+END
+gcp.py
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/265/trunk/gcp.py
+END
+gmv.py
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/265/trunk/gmv.py
+END
+gmkdir.py
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/265/trunk/gmkdir.py
+END
+grm.py
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/265/trunk/grm.py
+END
+gls.py
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/265/trunk/gls.py
+END
